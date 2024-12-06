@@ -1,0 +1,104 @@
+@import url("https://fonts.google.com/specimen/Young+Serif");
+
+@media (min-width: 992px ){
+
+
+
+
+}
+
+main{
+  border-radius: 15px;
+  background-color: white;
+  width: 50rem;
+  margin: 15px auto;
+  padding: 30px;
+}
+
+body{
+
+  background-color: hsl(30, 54%, 90%);
+}
+
+.img-head {
+
+width: 100%;
+height: 350px;   
+border-radius: 8px;
+}
+
+hr {
+
+    color:hsl(0, 0%, 100%);
+}
+
+body{  
+font-family: 'Young Serif';
+    margin: 0;    
+padding: 60px;
+
+}
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.preparation-time { 
+
+background: hsl(330, 100%, 98%);
+padding: 8px;
+margin: 20px;
+}
+
+
+.preparation-time  li::marker{
+    color:hsl(332, 51%, 32%) ;
+  }
+
+.preparation-time-title  {
+
+color: hsl(332, 51%, 32%);
+
+}
+
+
+.bold-instructions {
+
+font-weight: 700;
+
+}
+
+.value{
+/*
+text-align: center;
+*/
+
+display: flex;
+
+justify-content: center;
+
+margin-top: -20px;
+
+font-weight: 600;
+
+}
+
+
+.other-title, .value, .instructions  li::marker{
+
+color: hsl(14, 45%, 36%);
+
+}
+
+.ingredients li::marker {
+    color: hsl(14, 45%, 36%);
+}
+/*  
+.container {
+
+display: flex;
+
+}*/
